@@ -5,6 +5,9 @@ showing how to use Git
 
 ## Introduction
 
+This is example to show different parts
+of the Git resp
+
 ## Purpose
 
 ## Deplyment
