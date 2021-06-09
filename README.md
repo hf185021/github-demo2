@@ -10,6 +10,11 @@ of the Git resp
 
 ## Purpose
 
+As stated above, the main purpose is to
+provide simple example for Git
+
 ## Deplyment
+
+Deplyment of Git
 
 ## How to contribute
