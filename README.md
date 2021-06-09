@@ -18,3 +18,5 @@ provide simple example for Git
 Deplyment of Git
 
 ## How to contribute
+
+## Copyright
