@@ -19,4 +19,6 @@ Deplyment of Git
 
 ## How to contribute
 
+Add a line in main in Rebasing
+
 ## Copyright
